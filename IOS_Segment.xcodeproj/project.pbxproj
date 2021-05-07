@@ -13,6 +13,7 @@
 		8F321F3A2644487E00D4586E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F321F382644487E00D4586E /* Main.storyboard */; };
 		8F321F3C2644488000D4586E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F321F3B2644488000D4586E /* Assets.xcassets */; };
 		8F321F3F2644488000D4586E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F321F3D2644488000D4586E /* LaunchScreen.storyboard */; };
+		8F87770E2645372400F34C0B /* suzuki-hayabusa-2021-8b-750x1334.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F87770D2645372400F34C0B /* suzuki-hayabusa-2021-8b-750x1334.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8F321F3B2644488000D4586E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8F321F3E2644488000D4586E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8F321F402644488000D4586E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8F87770D2645372400F34C0B /* suzuki-hayabusa-2021-8b-750x1334.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "suzuki-hayabusa-2021-8b-750x1334.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				8F321F342644487E00D4586E /* SceneDelegate.swift */,
 				8F321F362644487E00D4586E /* ViewController.swift */,
 				8F321F382644487E00D4586E /* Main.storyboard */,
+				8F87770D2645372400F34C0B /* suzuki-hayabusa-2021-8b-750x1334.jpg */,
 				8F321F3B2644488000D4586E /* Assets.xcassets */,
 				8F321F3D2644488000D4586E /* LaunchScreen.storyboard */,
 				8F321F402644488000D4586E /* Info.plist */,
@@ -126,6 +129,7 @@
 			files = (
 				8F321F3F2644488000D4586E /* LaunchScreen.storyboard in Resources */,
 				8F321F3C2644488000D4586E /* Assets.xcassets in Resources */,
+				8F87770E2645372400F34C0B /* suzuki-hayabusa-2021-8b-750x1334.jpg in Resources */,
 				8F321F3A2644487E00D4586E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
